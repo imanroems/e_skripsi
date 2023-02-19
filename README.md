@@ -12,7 +12,7 @@ This is the result of implementing the Unirow Tuban E-Thesis RESTful API into a 
 
 ### Demo
 
-https://bit.ly/e-skripsi-unirow
+
 
 #### 1. Admin 
 - username : 0710730001
